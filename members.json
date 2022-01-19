@@ -1,2 +1,44 @@
 [
+  {
+    "name": "Yang Jung Won",
+    "subTitle": "Enhypen grubunun lideridir. Aynı zamanda lider vokal ve lider dansçıdır. 9 Şubat 2004 doğumludur. Uyluğu Koredir.",
+    "description":"",
+    "pictureUrl":"https://raw.githubusercontent.com/gbeyzasimsek/H5190031gulbeyzasimsek/main/yang-jung-won.jpg"
+  },
+  {
+    "name": "Park Jong Seong",
+    "subTitle": "Sahne adıyla Jay, Amerikada kullandığı ad Jay Park. Enhypen grubunun dansçı, vokalisti ve rapper. 20 Nisan 2002 doğumludur. Uyruğu Koreli-Amerikan.",
+    "description":"",
+    "pictureUrl":"https://raw.githubusercontent.com/gbeyzasimsek/H5190031gulbeyzasimsek/main/park-jong-seong.jpg"
+  },
+  {
+    "name": "Lee Heeseung",
+    "subTitle": "Enhypen grubunun merkez üyesidir. Aynı zamanda ana vokal, dansçı ve rapper. 15 Ekim 2001 doğumlu. Uyruğu Koreli.",
+    "description":"",
+    "pictureUrl":"https://raw.githubusercontent.com/gbeyzasimsek/H5190031gulbeyzasimsek/main/lee-heeseung.jpg"
+  },
+  {
+	  "name": "Kim Sunoo",
+    "subTitle": "Enhypen grubunun vokalistidir. 24 Haziran 2003 doğumludur. Uyruğu Koreli.",
+    "description":"",
+    "pictureUrl":"https://raw.githubusercontent.com/gbeyzasimsek/H5190031gulbeyzasimsek/main/kim-sunoo.jpg"
+  },
+  {
+	  "name": "Sim Jae Yun",
+    "subTitle": "Sahne adı Jake, Avusturalyada kullandığı ad Jake Sim. Enhypen grubunda dansçı, rapper, vokalist. 15 Kasım 2002 doğumlu. Uyruğu Avusturalya.",
+    "description":"",
+    "pictureUrl":"https://raw.githubusercontent.com/gbeyzasimsek/H5190031gulbeyzasimsek/main/sim-jae-yun.jpg"
+  },
+  {
+	  "name": "Park Sung Hoon",
+    "subTitle": "Enhypen grubunda dansçı, vokalist ve visual. Aynı zamanda profesyonel buz pateni ile ilgilenir ve bir çok ödülü var. 8 Aralık 2002 doğumlu. Uyruğu Koredir.",
+    "description":"",
+    "pictureUrl":"https://raw.githubusercontent.com/gbeyzasimsek/H5190031gulbeyzasimsek/main/park-sung-hoon.jpg"
+  },
+  {
+	  "name": "Nishimura Riki",
+    "subTitle": "Sahne adı Niki. Enhypen grubunda pozisyonları ana dansçı, rapper ve maknae(en küçük). 9 Aralık 2005 doğumludur. Uyruğu Japonya.",
+    "description":"",
+    "pictureUrl":"https://raw.githubusercontent.com/gbeyzasimsek/H5190031gulbeyzasimsek/main/nishimura-riki.jpg"
+  }
 ]
